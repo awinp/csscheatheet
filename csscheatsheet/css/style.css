@@ -29,7 +29,7 @@ body{
     border-width: 3px;
     border-bottom-width: 10px;
     border-top-style: dotted;
-    /* overwrite all the above and keep the border just 5px red and solid */
+    /* overwrite all the above and keep the border just 5px red / solid */
     border: 5px red solid;
 }
 
